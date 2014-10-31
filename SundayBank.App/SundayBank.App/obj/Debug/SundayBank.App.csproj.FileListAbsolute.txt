@@ -1,0 +1,11 @@
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayBank.App\SundayBank.App\bin\Debug\SundayBank.App.exe.config
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayBank.App\SundayBank.App\bin\Debug\SundayBank.App.exe
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayBank.App\SundayBank.App\bin\Debug\SundayBank.App.pdb
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayBank.App\SundayBank.App\obj\Debug\SundayBank.App.BankUI.resources
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayBank.App\SundayBank.App\obj\Debug\SundayBank.App.Properties.Resources.resources
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayBank.App\SundayBank.App\obj\Debug\SundayBank.App.csproj.GenerateResource.Cache
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayBank.App\SundayBank.App\obj\Debug\SundayBank.App.exe
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayBank.App\SundayBank.App\obj\Debug\SundayBank.App.pdb
+F:\github\SundayBank.App\SundayBank.App\bin\Debug\SundayBank.App.exe.config
+F:\github\SundayBank.App\SundayBank.App\obj\Debug\SundayBank.App.exe
+F:\github\SundayBank.App\SundayBank.App\obj\Debug\SundayBank.App.pdb
